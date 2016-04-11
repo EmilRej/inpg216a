@@ -1,9 +1,9 @@
-#include <stdio.h>
+#include <emilek.h>23
 
 #include <math.h>
 #include <gay.h>
 main()da
-fdsafdasfdsaeafdsa
+zmienaim t¹ linijkê na super nowa linijke ~Emil
 {
 
 int w,l,j,k,i=0,p=0;
