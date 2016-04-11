@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+#include <stdio.h> hehehe
+=======
 #include <emilek.h>23
+>>>>>>> cd873e14c79056542ee19b61fd7469423a407ab1
 
 #include <math.h>
 #include <gay.h>
