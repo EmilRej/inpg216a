@@ -8,6 +8,8 @@ fdsafdasfdsaeafdsa
 
 int w,l,j,k,i=0,p=0;
 
+printf("Emil to Rejman");
+
 printf("Podaj liczbe ");
 
 scanf("%d",&k);
