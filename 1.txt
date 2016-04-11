@@ -18,7 +18,7 @@ float result;
 
 printf("Witaj w kalkutorze 4-funkcyjnym\n\n");
 
-printf("superœmieszki/n")
+printf("superœmieszki")
 
 printf("Podaj pierwsza liczbe, operator dzialania i druga liczbe: \n");
 
